@@ -1,1 +1,1 @@
-woker: python run.py
+woker: python ./musicbot/bot.py
